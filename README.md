@@ -5,3 +5,15 @@ Overview
 --------
 
 Adds an arrowhead mold to the game, with an output of 8 arrowheads; that's it! Doesn't add anything else.
+
+Note that forging arrowheads will yield more per ingot compared to the output of this mold; that is intentional.
+
+
+Notable mods that add similar
+--------
+
+ - [Additional Molds](https://mods.vintagestory.at/ddolds)
+    - Adds plate and arrowhead molds.
+
+- [YABBA Forge (Previously More Molds)](https://mods.vintagestory.at/show/mod/377)
+    - Adds molds for various modded and vanilla items (includes an arrowhead mold as well).
