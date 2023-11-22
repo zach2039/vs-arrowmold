@@ -9,7 +9,7 @@
                 "build",
                 "-c",
                 "Debug",
-                "${workspaceFolder}/ModTemplate/ModTemplate.csproj"
+                "${workspaceFolder}/JustAnArrowheadMold/JustAnArrowheadMold.csproj"
             ],
             "problemMatcher": "$msCompile"
         },
