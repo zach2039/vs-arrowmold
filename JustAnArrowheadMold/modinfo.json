@@ -6,7 +6,7 @@
         "Zach2039"
     ],
     "description": "A Vintage Story mod that just adds an arrowhead mold; that's it!",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
 		"game": "1.18.15"
 	},
