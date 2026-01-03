@@ -1,4 +1,7 @@
 {
-  "block-arrowheadmold-raw-arrowhead": "Raw arrowhead mold",
-  "block-arrowheadmold-burned-arrowhead": "Arrowhead mold"
+  "block-arrowheadmold-*-raw-arrowhead": "Raw arrowhead mold",
+  "block-arrowheadmold-*-fired-arrowhead": "Arrowhead mold",
+
+  "blockcraftdesc-arrowheadmold-*-raw-arrowhead": "To create arrowheads directly from molten metal",
+  "block-handbooktext-arrowheadmold-*-fired-*": "<strong>Caution:</strong> Getting a mold with molten metal in it wet will cause the mold to shatter, and you will lose some of the metal."
 }

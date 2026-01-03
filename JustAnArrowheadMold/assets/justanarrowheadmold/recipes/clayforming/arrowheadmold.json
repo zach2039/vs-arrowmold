@@ -2,7 +2,7 @@
 	"ingredient":{
 		"type":"item",
 		"code":"game:clay-*",
-		"name":"type",
+		"name":"color",
 		"allowedVariants":[
 			"blue",
 			"fire",
@@ -47,6 +47,6 @@
 	"name":"Arrowhead mold",
 	"output":{
 		"type":"block",
-		"code":"arrowheadmold-raw-arrowhead"
+		"code":"arrowheadmold-{color}-raw-arrowhead"
 	}
 }
