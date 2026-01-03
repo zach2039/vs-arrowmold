@@ -8,7 +8,7 @@
     "description": "A Vintage Story mod that just adds an arrowhead mold; that's it!",
     "version": "1.1.0",
     "dependencies": {
-		"game": "1.21.0"
+		"game": "*"
 	},
 	"Side": "Universal",
 	"RequiredOnClient": true,
